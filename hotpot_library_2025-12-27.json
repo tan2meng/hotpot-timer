@@ -1,0 +1,1352 @@
+[
+    {
+        "id": "1",
+        "name": "肥牛",
+        "emoji": "🥩",
+        "seconds": 15,
+        "type": "肉类",
+        "usageCount": 98,
+        "isPinned": false
+    },
+    {
+        "id": "2",
+        "name": "羊肉卷",
+        "emoji": "🥓",
+        "seconds": 20,
+        "type": "肉类",
+        "usageCount": 95,
+        "isPinned": false
+    },
+    {
+        "id": "3",
+        "name": "毛肚",
+        "emoji": "🥘",
+        "seconds": 10,
+        "type": "肉类",
+        "usageCount": 92,
+        "isPinned": false
+    },
+    {
+        "id": "4",
+        "name": "撒尿牛丸",
+        "emoji": "🍡",
+        "seconds": 300,
+        "type": "肉类",
+        "usageCount": 85,
+        "isPinned": false
+    },
+    {
+        "id": "5",
+        "name": "虾滑",
+        "emoji": "🦐",
+        "seconds": 180,
+        "type": "海鲜",
+        "usageCount": 88,
+        "isPinned": false
+    },
+    {
+        "id": "6",
+        "name": "鱼片",
+        "emoji": "🐟",
+        "seconds": 60,
+        "type": "海鲜",
+        "usageCount": 75,
+        "isPinned": false
+    },
+    {
+        "id": "7",
+        "name": "菠菜",
+        "emoji": "🥬",
+        "seconds": 45,
+        "type": "素菜",
+        "usageCount": 80,
+        "isPinned": false
+    },
+    {
+        "id": "8",
+        "name": "土豆片",
+        "emoji": "🥔",
+        "seconds": 240,
+        "type": "素菜",
+        "usageCount": 78,
+        "isPinned": false
+    },
+    {
+        "id": "9",
+        "name": "藕片",
+        "emoji": "🥯",
+        "seconds": 180,
+        "type": "素菜",
+        "usageCount": 76,
+        "isPinned": false
+    },
+    {
+        "id": "10",
+        "name": "面条",
+        "emoji": "🍜",
+        "seconds": 240,
+        "type": "主食",
+        "usageCount": 50,
+        "isPinned": true
+    },
+    {
+        "id": "11",
+        "name": "豆皮",
+        "emoji": "🫔",
+        "seconds": 90,
+        "type": "其他",
+        "usageCount": 72,
+        "isPinned": true
+    },
+    {
+        "id": "12",
+        "name": "鸭血",
+        "emoji": "🧊",
+        "seconds": 300,
+        "type": "肉类",
+        "usageCount": 70,
+        "isPinned": false
+    },
+    {
+        "id": "13",
+        "name": "鹌鹑蛋",
+        "emoji": "🥚",
+        "seconds": 120,
+        "type": "其他",
+        "usageCount": 68,
+        "isPinned": true
+    },
+    {
+        "id": "14",
+        "name": "金针菇",
+        "emoji": "🍄",
+        "seconds": 60,
+        "type": "素菜",
+        "usageCount": 82,
+        "isPinned": false
+    },
+    {
+        "id": "15",
+        "name": "牛肉丸",
+        "emoji": "🍢",
+        "seconds": 300,
+        "type": "肉类",
+        "usageCount": 65,
+        "isPinned": false
+    },
+    {
+        "id": "16",
+        "name": "午餐肉",
+        "emoji": "🥫",
+        "seconds": 120,
+        "type": "肉类",
+        "usageCount": 63,
+        "isPinned": false
+    },
+    {
+        "id": "17",
+        "name": "肥肠",
+        "emoji": "🌭",
+        "seconds": 300,
+        "type": "肉类",
+        "usageCount": 60,
+        "isPinned": false
+    },
+    {
+        "id": "18",
+        "name": "黄喉",
+        "emoji": "👅",
+        "seconds": 20,
+        "type": "肉类",
+        "usageCount": 58,
+        "isPinned": false
+    },
+    {
+        "id": "19",
+        "name": "牛百叶",
+        "emoji": "🥘",
+        "seconds": 15,
+        "type": "肉类",
+        "usageCount": 56,
+        "isPinned": false
+    },
+    {
+        "id": "20",
+        "name": "蟹棒",
+        "emoji": "🦀",
+        "seconds": 30,
+        "type": "海鲜",
+        "usageCount": 54,
+        "isPinned": false
+    },
+    {
+        "id": "21",
+        "name": "鱼丸",
+        "emoji": "🐟",
+        "seconds": 240,
+        "type": "海鲜",
+        "usageCount": 52,
+        "isPinned": false
+    },
+    {
+        "id": "22",
+        "name": "虾丸",
+        "emoji": "🦐",
+        "seconds": 180,
+        "type": "海鲜",
+        "usageCount": 50,
+        "isPinned": false
+    },
+    {
+        "id": "23",
+        "name": "墨鱼仔",
+        "emoji": "🦑",
+        "seconds": 120,
+        "type": "海鲜",
+        "usageCount": 48,
+        "isPinned": false
+    },
+    {
+        "id": "24",
+        "name": "生菜",
+        "emoji": "🥬",
+        "seconds": 30,
+        "type": "素菜",
+        "usageCount": 46,
+        "isPinned": false
+    },
+    {
+        "id": "25",
+        "name": "白菜",
+        "emoji": "🥬",
+        "seconds": 60,
+        "type": "素菜",
+        "usageCount": 44,
+        "isPinned": false
+    },
+    {
+        "id": "26",
+        "name": "娃娃菜",
+        "emoji": "🥬",
+        "seconds": 90,
+        "type": "素菜",
+        "usageCount": 42,
+        "isPinned": false
+    },
+    {
+        "id": "27",
+        "name": "冬瓜",
+        "emoji": "🍈",
+        "seconds": 180,
+        "type": "素菜",
+        "usageCount": 40,
+        "isPinned": false
+    },
+    {
+        "id": "28",
+        "name": "萝卜片",
+        "emoji": "🥕",
+        "seconds": 150,
+        "type": "素菜",
+        "usageCount": 38,
+        "isPinned": false
+    },
+    {
+        "id": "29",
+        "name": "玉米",
+        "emoji": "🌽",
+        "seconds": 300,
+        "type": "素菜",
+        "usageCount": 36,
+        "isPinned": false
+    },
+    {
+        "id": "30",
+        "name": "山药",
+        "emoji": "🍠",
+        "seconds": 240,
+        "type": "素菜",
+        "usageCount": 34,
+        "isPinned": false
+    },
+    {
+        "id": "31",
+        "name": "红薯粉",
+        "emoji": "🍜",
+        "seconds": 300,
+        "type": "主食",
+        "usageCount": 32,
+        "isPinned": false
+    },
+    {
+        "id": "32",
+        "name": "乌冬面",
+        "emoji": "🍜",
+        "seconds": 180,
+        "type": "主食",
+        "usageCount": 30,
+        "isPinned": false
+    },
+    {
+        "id": "33",
+        "name": "年糕",
+        "emoji": "🥮",
+        "seconds": 120,
+        "type": "主食",
+        "usageCount": 28,
+        "isPinned": false
+    },
+    {
+        "id": "34",
+        "name": "粉丝",
+        "emoji": "🍝",
+        "seconds": 90,
+        "type": "主食",
+        "usageCount": 26,
+        "isPinned": false
+    },
+    {
+        "id": "35",
+        "name": "豆腐",
+        "emoji": "🧈",
+        "seconds": 180,
+        "type": "其他",
+        "usageCount": 24,
+        "isPinned": false
+    },
+    {
+        "id": "36",
+        "name": "冻豆腐",
+        "emoji": "🧊",
+        "seconds": 240,
+        "type": "其他",
+        "usageCount": 22,
+        "isPinned": false
+    },
+    {
+        "id": "37",
+        "name": "油条",
+        "emoji": "🥖",
+        "seconds": 10,
+        "type": "其他",
+        "usageCount": 20,
+        "isPinned": false
+    },
+    {
+        "id": "38",
+        "name": "香菇",
+        "emoji": "🍄",
+        "seconds": 120,
+        "type": "素菜",
+        "usageCount": 18,
+        "isPinned": false
+    },
+    {
+        "id": "39",
+        "name": "平菇",
+        "emoji": "🍄",
+        "seconds": 90,
+        "type": "素菜",
+        "usageCount": 16,
+        "isPinned": false
+    },
+    {
+        "id": "40",
+        "name": "杏鲍菇",
+        "emoji": "🍄",
+        "seconds": 150,
+        "type": "素菜",
+        "usageCount": 14,
+        "isPinned": false
+    },
+    {
+        "id": "41",
+        "name": "木耳",
+        "emoji": "🍂",
+        "seconds": 60,
+        "type": "素菜",
+        "usageCount": 12,
+        "isPinned": false
+    },
+    {
+        "id": "42",
+        "name": "海带",
+        "emoji": "🌿",
+        "seconds": 180,
+        "type": "素菜",
+        "usageCount": 10,
+        "isPinned": false
+    },
+    {
+        "id": "43",
+        "name": "黄豆芽",
+        "emoji": "🌱",
+        "seconds": 90,
+        "type": "素菜",
+        "usageCount": 8,
+        "isPinned": false
+    },
+    {
+        "id": "44",
+        "name": "绿豆芽",
+        "emoji": "🌱",
+        "seconds": 60,
+        "type": "素菜",
+        "usageCount": 6,
+        "isPinned": false
+    },
+    {
+        "id": "45",
+        "name": "西兰花",
+        "emoji": "🥦",
+        "seconds": 120,
+        "type": "素菜",
+        "usageCount": 5,
+        "isPinned": false
+    },
+    {
+        "id": "46",
+        "name": "花菜",
+        "emoji": "🥦",
+        "seconds": 150,
+        "type": "素菜",
+        "usageCount": 4,
+        "isPinned": false
+    },
+    {
+        "id": "47",
+        "name": "番茄",
+        "emoji": "🍅",
+        "seconds": 30,
+        "type": "素菜",
+        "usageCount": 3,
+        "isPinned": false
+    },
+    {
+        "id": "48",
+        "name": "黄瓜",
+        "emoji": "🥒",
+        "seconds": 45,
+        "type": "素菜",
+        "usageCount": 2,
+        "isPinned": false
+    },
+    {
+        "id": "49",
+        "name": "鸡蛋",
+        "emoji": "🥚",
+        "seconds": 300,
+        "type": "其他",
+        "usageCount": 1,
+        "isPinned": false
+    },
+    {
+        "id": "50",
+        "name": "猪肉片",
+        "emoji": "🥓",
+        "seconds": 30,
+        "type": "肉类",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "51",
+        "name": "鸡肉片",
+        "emoji": "🍗",
+        "seconds": 60,
+        "type": "肉类",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "52",
+        "name": "鸭肉片",
+        "emoji": "🦆",
+        "seconds": 90,
+        "type": "肉类",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "53",
+        "name": "鹅肠",
+        "emoji": "🌭",
+        "seconds": 20,
+        "type": "肉类",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "54",
+        "name": "牛舌",
+        "emoji": "👅",
+        "seconds": 30,
+        "type": "肉类",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "55",
+        "name": "猪脑",
+        "emoji": "🧠",
+        "seconds": 300,
+        "type": "肉类",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "56",
+        "name": "鱿鱼卷",
+        "emoji": "🦑",
+        "seconds": 60,
+        "type": "海鲜",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "57",
+        "name": "扇贝",
+        "emoji": "🐚",
+        "seconds": 120,
+        "type": "海鲜",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "58",
+        "name": "蛤蜊",
+        "emoji": "🐚",
+        "seconds": 180,
+        "type": "海鲜",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "59",
+        "name": "蛏子",
+        "emoji": "🐚",
+        "seconds": 180,
+        "type": "海鲜",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "60",
+        "name": "生蚝",
+        "emoji": "🦪",
+        "seconds": 120,
+        "type": "海鲜",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "61",
+        "name": "鲍鱼",
+        "emoji": "🐚",
+        "seconds": 240,
+        "type": "海鲜",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "62",
+        "name": "海参",
+        "emoji": "🪸",
+        "seconds": 300,
+        "type": "海鲜",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "63",
+        "name": "鱼豆腐",
+        "emoji": "🐟",
+        "seconds": 90,
+        "type": "其他",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "64",
+        "name": "素鸡",
+        "emoji": "🍗",
+        "seconds": 120,
+        "type": "其他",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "65",
+        "name": "素鸭",
+        "emoji": "🦆",
+        "seconds": 120,
+        "type": "其他",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "66",
+        "name": "腐竹",
+        "emoji": "🥢",
+        "seconds": 180,
+        "type": "其他",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "67",
+        "name": "豆泡",
+        "emoji": "🧈",
+        "seconds": 90,
+        "type": "其他",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "68",
+        "name": "千张",
+        "emoji": "🥢",
+        "seconds": 60,
+        "type": "其他",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "69",
+        "name": "油豆皮",
+        "emoji": "🥢",
+        "seconds": 30,
+        "type": "其他",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "70",
+        "name": "魔芋丝",
+        "emoji": "🍜",
+        "seconds": 60,
+        "type": "其他",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "71",
+        "name": "魔芋块",
+        "emoji": "🍡",
+        "seconds": 120,
+        "type": "其他",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "72",
+        "name": "宽粉",
+        "emoji": "🍜",
+        "seconds": 180,
+        "type": "主食",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "73",
+        "name": "细粉",
+        "emoji": "🍜",
+        "seconds": 90,
+        "type": "主食",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "74",
+        "name": "河粉",
+        "emoji": "🍜",
+        "seconds": 120,
+        "type": "主食",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "75",
+        "name": "米线",
+        "emoji": "🍜",
+        "seconds": 150,
+        "type": "主食",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "76",
+        "name": "拉面",
+        "emoji": "🍜",
+        "seconds": 180,
+        "type": "主食",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "77",
+        "name": "刀削面",
+        "emoji": "🍜",
+        "seconds": 240,
+        "type": "主食",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "78",
+        "name": "饺子",
+        "emoji": "🥟",
+        "seconds": 300,
+        "type": "主食",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "79",
+        "name": "馄饨",
+        "emoji": "🥟",
+        "seconds": 180,
+        "type": "主食",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "80",
+        "name": "小笼包",
+        "emoji": "🥟",
+        "seconds": 240,
+        "type": "主食",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "81",
+        "name": "烧卖",
+        "emoji": "🥟",
+        "seconds": 180,
+        "type": "主食",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "82",
+        "name": "春卷",
+        "emoji": "🌯",
+        "seconds": 120,
+        "type": "主食",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "83",
+        "name": "油饼",
+        "emoji": "🥞",
+        "seconds": 60,
+        "type": "主食",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "84",
+        "name": "馒头片",
+        "emoji": "🍞",
+        "seconds": 90,
+        "type": "主食",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "85",
+        "name": "面包片",
+        "emoji": "🍞",
+        "seconds": 30,
+        "type": "主食",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "86",
+        "name": "芝士年糕",
+        "emoji": "🥮",
+        "seconds": 180,
+        "type": "主食",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "87",
+        "name": "紫薯球",
+        "emoji": "🍠",
+        "seconds": 120,
+        "type": "主食",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "88",
+        "name": "南瓜饼",
+        "emoji": "🎃",
+        "seconds": 180,
+        "type": "主食",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "89",
+        "name": "芝麻球",
+        "emoji": "🍡",
+        "seconds": 150,
+        "type": "主食",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "90",
+        "name": "芋头",
+        "emoji": "🍠",
+        "seconds": 240,
+        "type": "素菜",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "91",
+        "name": "豌豆苗",
+        "emoji": "🌱",
+        "seconds": 30,
+        "type": "素菜",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "92",
+        "name": "芦笋",
+        "emoji": "🌿",
+        "seconds": 60,
+        "type": "素菜",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "93",
+        "name": "秋葵",
+        "emoji": "🥬",
+        "seconds": 90,
+        "type": "素菜",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "94",
+        "name": "苦瓜",
+        "emoji": "🥒",
+        "seconds": 120,
+        "type": "素菜",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "95",
+        "name": "丝瓜",
+        "emoji": "🥒",
+        "seconds": 150,
+        "type": "素菜",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "96",
+        "name": "佛手瓜",
+        "emoji": "🥒",
+        "seconds": 180,
+        "type": "素菜",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "97",
+        "name": "莴笋",
+        "emoji": "🥬",
+        "seconds": 90,
+        "type": "素菜",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "98",
+        "name": "芹菜",
+        "emoji": "🥬",
+        "seconds": 60,
+        "type": "素菜",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "99",
+        "name": "韭菜",
+        "emoji": "🥬",
+        "seconds": 45,
+        "type": "素菜",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "100",
+        "name": "香菜",
+        "emoji": "🌿",
+        "seconds": 15,
+        "type": "素菜",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "101",
+        "name": "茼蒿",
+        "emoji": "🌿",
+        "seconds": 30,
+        "type": "素菜",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "102",
+        "name": "油麦菜",
+        "emoji": "🥬",
+        "seconds": 45,
+        "type": "素菜",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "103",
+        "name": "空心菜",
+        "emoji": "🥬",
+        "seconds": 60,
+        "type": "素菜",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "104",
+        "name": "苋菜",
+        "emoji": "🥬",
+        "seconds": 90,
+        "type": "素菜",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "105",
+        "name": "紫甘蓝",
+        "emoji": "🥬",
+        "seconds": 120,
+        "type": "素菜",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "106",
+        "name": "包菜",
+        "emoji": "🥬",
+        "seconds": 150,
+        "type": "素菜",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "107",
+        "name": "苦菊",
+        "emoji": "🥬",
+        "seconds": 30,
+        "type": "素菜",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "108",
+        "name": "芝麻菜",
+        "emoji": "🥬",
+        "seconds": 45,
+        "type": "素菜",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "109",
+        "name": "薄荷",
+        "emoji": "🌿",
+        "seconds": 10,
+        "type": "素菜",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "110",
+        "name": "罗勒",
+        "emoji": "🌿",
+        "seconds": 15,
+        "type": "素菜",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "111",
+        "name": "紫苏",
+        "emoji": "🌿",
+        "seconds": 20,
+        "type": "素菜",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "112",
+        "name": "香椿",
+        "emoji": "🌿",
+        "seconds": 30,
+        "type": "素菜",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "113",
+        "name": "竹笋",
+        "emoji": "🎍",
+        "seconds": 180,
+        "type": "素菜",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "114",
+        "name": "冬笋",
+        "emoji": "🎍",
+        "seconds": 240,
+        "type": "素菜",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "115",
+        "name": "芦笋尖",
+        "emoji": "🌿",
+        "seconds": 45,
+        "type": "素菜",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "116",
+        "name": "娃娃菜心",
+        "emoji": "🥬",
+        "seconds": 60,
+        "type": "素菜",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "117",
+        "name": "荠菜",
+        "emoji": "🌿",
+        "seconds": 30,
+        "type": "素菜",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "118",
+        "name": "马齿苋",
+        "emoji": "🌿",
+        "seconds": 45,
+        "type": "素菜",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "119",
+        "name": "蕨菜",
+        "emoji": "🌿",
+        "seconds": 90,
+        "type": "素菜",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "120",
+        "name": "野葱",
+        "emoji": "🌿",
+        "seconds": 15,
+        "type": "素菜",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "121",
+        "name": "野蒜",
+        "emoji": "🌿",
+        "seconds": 20,
+        "type": "素菜",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "122",
+        "name": "松茸",
+        "emoji": "🍄",
+        "seconds": 120,
+        "type": "素菜",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "123",
+        "name": "牛肝菌",
+        "emoji": "🍄",
+        "seconds": 150,
+        "type": "素菜",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "124",
+        "name": "鸡枞菌",
+        "emoji": "🍄",
+        "seconds": 180,
+        "type": "素菜",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "125",
+        "name": "竹荪",
+        "emoji": "🍄",
+        "seconds": 90,
+        "type": "素菜",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "126",
+        "name": "虫草花",
+        "emoji": "🌼",
+        "seconds": 60,
+        "type": "素菜",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "127",
+        "name": "银耳",
+        "emoji": "🍂",
+        "seconds": 120,
+        "type": "素菜",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "128",
+        "name": "黑木耳",
+        "emoji": "🍂",
+        "seconds": 90,
+        "type": "素菜",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "129",
+        "name": "石花菜",
+        "emoji": "🌿",
+        "seconds": 180,
+        "type": "素菜",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "130",
+        "name": "海白菜",
+        "emoji": "🌿",
+        "seconds": 150,
+        "type": "素菜",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "131",
+        "name": "海带结",
+        "emoji": "🌿",
+        "seconds": 120,
+        "type": "素菜",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "132",
+        "name": "裙带菜",
+        "emoji": "🌿",
+        "seconds": 90,
+        "type": "素菜",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "133",
+        "name": "螺旋藻",
+        "emoji": "🌿",
+        "seconds": 60,
+        "type": "素菜",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "134",
+        "name": "小麦草",
+        "emoji": "🌿",
+        "seconds": 30,
+        "type": "素菜",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "135",
+        "name": "绿豆",
+        "emoji": "🫘",
+        "seconds": 180,
+        "type": "素菜",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "136",
+        "name": "红豆",
+        "emoji": "🫘",
+        "seconds": 240,
+        "type": "素菜",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "137",
+        "name": "黑豆",
+        "emoji": "🫘",
+        "seconds": 300,
+        "type": "素菜",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "138",
+        "name": "黄豆",
+        "emoji": "🫘",
+        "seconds": 300,
+        "type": "素菜",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "139",
+        "name": "花生",
+        "emoji": "🥜",
+        "seconds": 180,
+        "type": "素菜",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "140",
+        "name": "核桃",
+        "emoji": "🌰",
+        "seconds": 240,
+        "type": "素菜",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "141",
+        "name": "杏仁",
+        "emoji": "🌰",
+        "seconds": 120,
+        "type": "素菜",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "142",
+        "name": "腰果",
+        "emoji": "🌰",
+        "seconds": 150,
+        "type": "素菜",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "143",
+        "name": "开心果",
+        "emoji": "🌰",
+        "seconds": 180,
+        "type": "素菜",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "144",
+        "name": "夏威夷果",
+        "emoji": "🌰",
+        "seconds": 240,
+        "type": "素菜",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "145",
+        "name": "碧根果",
+        "emoji": "🌰",
+        "seconds": 300,
+        "type": "素菜",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "146",
+        "name": "松子",
+        "emoji": "🌰",
+        "seconds": 120,
+        "type": "素菜",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "147",
+        "name": "葵花籽",
+        "emoji": "🌻",
+        "seconds": 90,
+        "type": "素菜",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "148",
+        "name": "南瓜籽",
+        "emoji": "🎃",
+        "seconds": 150,
+        "type": "素菜",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "149",
+        "name": "西瓜籽",
+        "emoji": "🍉",
+        "seconds": 180,
+        "type": "素菜",
+        "usageCount": 0,
+        "isPinned": false
+    },
+    {
+        "id": "150",
+        "name": "芝麻",
+        "emoji": "🌱",
+        "seconds": 60,
+        "type": "素菜",
+        "usageCount": 0,
+        "isPinned": false
+    }
+]
